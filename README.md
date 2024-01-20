@@ -4,11 +4,13 @@ Through this project, I gained hands-on experiences on how to visualise data and
 
 ### Project Overview
 
-*Dashboards are hosted on seperate domains, click on links below them to view*
+Video link: https://youtu.be/S4Sm-DTMv5U
 
 Analyse and understand Indonesian traveller data. Understand first time and revisitng attributes and recommend marketing strategies based on data insights
 
 Aims to attract more travellers to Singapore and go for local tours by using effective and targeted marketing.
+
+*Dashboards are hosted on seperate domains, click on links below them to view*
 
 ### Data Source
 
